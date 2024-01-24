@@ -34,4 +34,4 @@ python train.py --c config/cv/etfssl_cifar100_200_0.yaml
 python train.py --c config/cv/etfssl_cifar100_200_0.yaml --mode reload
 ```
 # Acknowledge
-ETFSSL is developed based on the architecture of "USB: A Unified Semi-supervised Learning Benchmark for Classification" (NIPS 2022,[https://github.com/microsoft/Semi-supervised-learning]).We sincerely thank the authors for the excellent works!
+ETFSSL is developed based on the architecture of "USB: A Unified Semi-supervised Learning Benchmark for Classification" (NIPS 2022,[https://github.com/microsoft/Semi-supervised-learning]). We sincerely thank the authors for the excellent works!
