@@ -13,7 +13,8 @@ This is the code for the paper"Neural Collapse Inspired Semi-Supervised Learning
 # Usage
 ETFSSL is composed of the pretraining and joint training stages. The settings for the parameters of the experiment and datasets are in the config directory.
 # Data Preparation
-Download the raw dataset of UrbanSound8k from "https://urbansounddataset.weebly.com/urbansound8k.html", and then run python preprocess/preprocess_urbansound.py to process the raw dataset. Other datasets can be downloaded from the url provided by their corresponding papers or official websites.
+Download the raw dataset of UrbanSound8k from "https://urbansounddataset.weebly.com/urbansound8k.html", and then run ```
+python preprocess/preprocess_urbansound.py ``` to process the raw dataset. Other datasets can be downloaded from the url provided by their corresponding papers or official websites.
 # Dataset Structure:
 Make sure to put the files in the following structure:
 ```
